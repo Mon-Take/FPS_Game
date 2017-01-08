@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{EF356F8F-373C-54E6-8050-C4081F937336}") = "FPS game", "Assembly-CSharp.csproj", "{A429C9AA-4042-64E3-59B5-E59FFC2BBC80}"
+EndProject
+Project("{EF356F8F-373C-54E6-8050-C4081F937336}") = "FPS game", "Assembly-CSharp-Editor.csproj", "{CF890FCC-7333-7C8A-ABEF-ACFD600071CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A429C9AA-4042-64E3-59B5-E59FFC2BBC80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A429C9AA-4042-64E3-59B5-E59FFC2BBC80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A429C9AA-4042-64E3-59B5-E59FFC2BBC80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A429C9AA-4042-64E3-59B5-E59FFC2BBC80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF890FCC-7333-7C8A-ABEF-ACFD600071CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF890FCC-7333-7C8A-ABEF-ACFD600071CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF890FCC-7333-7C8A-ABEF-ACFD600071CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF890FCC-7333-7C8A-ABEF-ACFD600071CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
